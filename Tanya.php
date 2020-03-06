@@ -1,6 +1,6 @@
 <?php
 
-namespace Tanya;
+namespace Tanya\Test;
 
 class Tanya
 {
