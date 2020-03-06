@@ -6,7 +6,7 @@ class Tanya
 {
     public function greet()
     {
-        return 'Hi ' . '! How are you doing today?';
+        echo 'Hi ' . '! How are you doing today?';
     }
 
 }
