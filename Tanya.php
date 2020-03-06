@@ -4,9 +4,9 @@ namespace Tanya\Test;
 
 class Tanya
 {
-    public function greet(String $sName)
+    public function greet()
     {
-        return 'Hi ' . $sName . '! How are you doing today?';
+        return 'Hi ' . '! How are you doing today?';
     }
 
 }
